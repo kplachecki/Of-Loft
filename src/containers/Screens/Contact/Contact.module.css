@@ -1,0 +1,9 @@
+.body {
+  height: 100vh;
+  background-color: #bbbbbb;
+}
+@media (max-width: 1000px) {
+  .body {
+    height: 96vh;
+  }
+}
