@@ -1,10 +1,14 @@
 .body {
-  height: 100vh;
+  height: 105vh;
   background-color: #556666;
   color: #ffffff;
+  padding-bottom: 10px;
+  padding-left: 95px;
 }
 @media (max-width: 1000px) {
   .body {
+    padding-left: 0px;
+
     height: 96vh;
   }
 }

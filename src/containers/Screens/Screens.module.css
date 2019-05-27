@@ -1,11 +1,4 @@
 .body {
   display: flex;
   flex-direction: column;
-  margin-left: 95px;
-}
-
-@media (max-width: 1000px) {
-  .body {
-    margin-left: 0;
-  }
 }

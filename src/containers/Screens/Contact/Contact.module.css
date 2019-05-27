@@ -1,9 +1,13 @@
 .body {
   height: 100vh;
   background-color: #bbbbbb;
+  padding-bottom: 10px;
+  padding-left: 95px;
 }
 @media (max-width: 1000px) {
   .body {
+    padding-left: 0px;
+
     height: 96vh;
   }
 }

@@ -67,7 +67,7 @@ const sidebar = () => (
                     to="about"
                     spy={true}
                     smooth={true}
-                    duration={1000}
+                    duration={500}
                   >
                     About
                   </Link>
@@ -78,7 +78,7 @@ const sidebar = () => (
                     to="furniture"
                     spy={true}
                     smooth={true}
-                    duration={1000}
+                    duration={500}
                   >
                     Furniture
                   </Link>
@@ -89,7 +89,7 @@ const sidebar = () => (
                     to="lighting"
                     spy={true}
                     smooth={true}
-                    duration={1000}
+                    duration={500}
                   >
                     Lighting
                   </Link>
@@ -100,7 +100,7 @@ const sidebar = () => (
                     to="contact"
                     spy={true}
                     smooth={true}
-                    duration={1000}
+                    duration={500}
                   >
                     Contact
                   </Link>

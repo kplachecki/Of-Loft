@@ -47,21 +47,6 @@ const about = () => (
         dolore culpa incididunt anim ad ipsum qui tempor in consequat. Tempor
         fugiat enim enim dolore occaecat aliqua anim minim officia excepteur
         cupidatat dolore nostrud. Tempor tempor do ea laboris deserunt mollit
-        quis Lorem veniam adipisicing cillum incididunt minim anim. Aliquip non
-        in aliqua do incididunt est eiusmod enim elit officia anim mollit.
-        Laboris tempor non quis adipisicing veniam proident voluptate consequat
-        ad fugiat nulla. Veniam nisi culpa officia nisi et ad cillum mollit est
-        deserunt duis occaecat. Elit magna mollit commodo exercitation
-        reprehenderit officia est officia adipisicing elit. Id nisi pariatur
-        ipsum est do laborum ea enim enim consequat culpa laborum. Lorem in eu
-        excepteur veniam exercitation. Do dolore anim non commodo enim anim
-        amet. Duis et anim et pariatur ea nulla dolor labore cillum cillum
-        nostrud deserunt. Ex dolore nulla culpa officia ipsum eiusmod nisi et eu
-        eu duis dolore. Labore duis incididunt voluptate velit proident aute
-        nisi deserunt duis anim sint. Magna et irure tempor nostrud consectetur
-        mollit laborum sit amet amet duis commodo. Consectetur incididunt
-        reprehenderit dolor sunt. Anim incididunt excepteur in occaecat commodo
-        eu cupidatat dolore ullamco duis velit laborum.
       </p>
     </div>
   </React.Fragment>
