@@ -1,6 +1,9 @@
 .body {
   height: 100vh;
   background-color: #bbbbbb;
+  background-image: url("./../../../assets/Contact/nautilus-wizual2.jpg");
+  background-size: cover;
+  background-position: center;
   padding-bottom: 10px;
   padding-left: 95px;
 }
@@ -12,5 +15,10 @@
   .body {
     padding-left: 0px;
     height: 96vh;
+  }
+}
+@media (max-width: 420px) {
+  .body {
+    background-position-x: -300px;
   }
 }

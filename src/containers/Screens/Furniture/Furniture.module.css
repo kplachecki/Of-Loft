@@ -1,18 +1,26 @@
 .body {
-  height: 105vh;
+  height: 100vh;
   background-color: #556666;
+  background-image: url("./../../../assets/Furniture/antract-wizual1.jpg");
+  background-size: cover;
+  background-position: center;
   color: #ffffff;
   padding-bottom: 10px;
   padding-left: 95px;
 }
 .content {
+  background-color: rgba(0, 0, 0, 0.5);
   text-align: center;
-  padding: 0 30px;
+  margin: 0 30px;
 }
 @media (max-width: 1000px) {
   .body {
     padding-left: 0px;
-
     height: 96vh;
+  }
+}
+@media (max-width: 420px) {
+  .body {
+    background-position-x: -400px;
   }
 }

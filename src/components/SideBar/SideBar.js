@@ -17,7 +17,7 @@ class Sidebar extends Component {
               matches ? (
                 <React.Fragment>
                   <li className={classes.logo} onClick={this.scrollToTop}>
-                    <img src={logo} height="75%" width="100%" />
+                    <img src={logo} height="75%" />
                   </li>
                   <li className={classes.li}>
                     <Link

@@ -2,6 +2,9 @@
   height: 105vh;
   background-color: #444444;
   color: #ffffff;
+  background-image: url("./../../../assets/Lighting/nautilus-wizual1.jpg");
+  background-size: cover;
+  background-position: center;
   padding-bottom: 10px;
   padding-left: 95px;
 }
@@ -14,5 +17,10 @@
     padding-left: 0px;
 
     height: 96vh;
+  }
+}
+@media (max-width: 420px) {
+  .body {
+    background-position-x: -450px;
   }
 }
